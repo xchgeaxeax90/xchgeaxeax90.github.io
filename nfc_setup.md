@@ -30,6 +30,8 @@ Just copy the URL of your profile
 
 While it is possible to load multiple URLs or other pieces of data onto an NFC tag, when a phone reads the tag it only opens the first URL loaded onto the tag. This means if you have multiple things (social media links, link to your store, etc.) that you want people to see, you will need to aggregate them onto a single URL using something like [Carrd.co](https://carrd.co/).
 
+Alternatively if you're an idiot like me, you could use github pages to do the same thing instead!
+
 ## Loading the data onto your NFC Tag
 
 ### iOS
