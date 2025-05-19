@@ -5,10 +5,10 @@ permalink: /nfc_setup
 toc: true
 ---
 
-You're likely here because you received an NFC tag from me to put on your convention badge and want to customize it. If this is not the case, you either need to come find me to get one (I don't bite!) or purchase an NFC tag yourself (see [Purchasing](#purchasing))
+You're likely here because you received an NFC tag from me to put on your convention badge and want to customize it. If this is not the case, you either need to come find me to get one (I don't bite!) or purchase an NFC tag yourself (see [Purchasing](#purchasing)).
 
 ## URL/Data Selection
-To customize your NFC tag, you need something to put on it. This can be a URL of some sort, a contact card, phone number, email address, or even something like a WiFi network. Good choices include:
+To customize your NFC tag, you need some information to put on it. This can be a URL of some sort, a contact card, phone number, email address, or even something like a WiFi name and password. Good choices include:
 
 #### Discord User Link
 
@@ -28,7 +28,7 @@ Just copy the URL of your profile
 
 #### Carrd
 
-While it is possible to load multiple URLs or other pieces of data onto an NFC tag, when a phone reads the tag it only opens the first URL loaded onto the tag. This means if you have multiple things (social media links, link to your store, etc.) you will need to aggregate them onto a single URL using something like https://carrd.co/
+While it is possible to load multiple URLs or other pieces of data onto an NFC tag, when a phone reads the tag it only opens the first URL loaded onto the tag. This means if you have multiple things (social media links, link to your store, etc.) that you want people to see, you will need to aggregate them onto a single URL using something like [Carrd.co](https://carrd.co/).
 
 ## Loading the data onto your NFC Tag
 
@@ -73,11 +73,11 @@ I unfortunately do not have an android device to test with, however it appears t
 
 ### Finishing Up
 
-You should now have an NFC Tag that takes you to a URL of your choosing. Make sure to test it by tapping the top of your phone to the tag and make sure that the URL or other data you have programmed into the tag does what you expect (takes you to your twitter, discord, email address, etc.)
+You should now have an NFC Tag that takes you to a URL of your choosing. Make sure to test it by tapping the top of your phone to the tag and make sure that the URL or other data you have programmed into the tag does what you expect (takes you to your twitter, discord, email address, etc.).
 
 ## Purchasing
 
-If you did not get an NFC tag from me, or did and want to buy more for future cons and events, there are a couple of options. The tags I was handing out are in the "NTAG" family, specifically "NTAG 213". There are a couple of other tags in this family (NTAG 215 and NTAG 216) which have slightly more memory to hold URLs and such. Personally I don't think that the extra memory in these tags is terribly necessary or useful, but you may be able to find one of these tags if NTAG 213 is out of stock.
+If you did not get an NFC tag from me, or did and want to buy more for future cons and events, there are a couple of options. The tags I was handing out are in the "NTAG" family, specifically "NTAG 213" device. There are a couple of other tags in this family (NTAG 215 and NTAG 216) which have slightly more memory to hold URLs and such. Personally I don't think that the extra memory in these tags is terribly necessary or useful, but you may be able to find one of these tags if NTAG 213 is out of stock.
 
 Additionally, there are several different form factors for the NFC tag. The tags I hand out look like this:
 
