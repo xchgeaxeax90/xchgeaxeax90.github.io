@@ -69,9 +69,29 @@ Once your tag has been written, you should be able to hold it up to the top of y
 
 ### Android
 
-I unfortunately do not have an android device to test with, however it appears that [NFC TagWriter by NXP](https://play.google.com/store/apps/details?id=com.nxp.nfc.tagwriter&hl=en_US&pli=1) works very similarly to the NFC Tools app I used on iOS. The instructions here should show how to write a URL to the tag just like the iOS instructions above:
+I unfortunately do not have an android device to test with, however it appears that [NFC TagWriter by NXP](https://play.google.com/store/apps/details?id=com.nxp.nfc.tagwriter&hl=en_US&pli=1) works very similarly to the NFC Tools app I used on iOS. 
 
-[Bluebite NFC Tutorial](https://www.bluebite.com/nfc/how-to-write-nfc-on-android)
+The instructions are pretty similar to the above app. Images here are taken from iOS, but should be nearly the same on android:
+
+Open the NFC TagWriter App, you should see the following screen:
+
+![TagWriter Home screen](images/IMG_7354.PNG){: width="400"}
+
+Tap the "New" icon on the bottom right, which should take you to the following screen:
+
+![TagWriter Record Select](images/IMG_7355.PNG){: width="400"}
+
+Tap "Link" (or another record if you want to have the tag show a phone number or something else), to get the following screen:
+
+![TagWriter URL](images/IMG_7357.PNG){: width="400"}
+
+Enter your URL. Make sure "Custom URL" is selected if your url contains "https://" or you select the correct prefix otherwise. Hit save at the bottom right
+
+You should then see the following screen:
+
+![Tagwriter Write](images/IMG_7358.PNG){: width="400"}
+
+Tap "Save and Write." The app should prompt you to tap your NFC tag to the top of your phone, at which point it should write the data to your tag
 
 ### Finishing Up
 
