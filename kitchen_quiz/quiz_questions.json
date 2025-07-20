@@ -1,0 +1,23 @@
+[
+    {
+        "question": "True or False: Fingers should be kept clear of the blade when cutting using a knife",
+        "type": "multiple_choice",
+        "answers": [
+            {"text": "True", "on_selected": "Yes, don't cut your fingers off!"},
+            {"text": "False", "on_selected": "Keep your fingers away from the knife if you want to keep them!"}
+        ],
+        "correct": [0]
+    },
+    {
+        "question": "You are frying some chicken and step away from the kitchen to answer a call. When you return, the pan has caught fire. Which item would be appropriate to use to extinguish the fire?",
+        "type": "multiple_choice",
+        "answers": [
+            {"text": "The lid of the pot", "on_selected": "This will put out the fire, just make sure to turn off the burner afterwards"},
+            {"text": "A cup of water", "on_selected": "The water will sink below the oil and boil, throwing burning oil into the air."},
+            {"text": "A bag of flour", "on_selected": "Flour is flammable, it will not smother the fire"},
+            {"text": "A type ABC fire extinguisher", "on_selected": "A type ABC fire extinguisher is not recommended for an oil fire. While it won't make it significantly worse, it may not put it out either"},
+            {"text": "A type K fire extinguisher", "on_selected": "Type K, for Kitchen, is another good choice and will put out the fire effectively"}
+        ],
+        "correct": [0, 4]
+    }
+]
