@@ -19,25 +19,24 @@ Well great, I can eat eggs now!
 
 # What does baked mean though?
 
-However, the instructions for homemade baked goods I find confusing, specifically the direction that the food must be baked at at least 350 degrees for 30 minutes. I've baked a fair number of foods, including cookies, cakes, scones, quickbreads, yeast breads, cinnamon rolls, pretzels, and more. The time and temperature these items are baked at varies wildly, with cookies often being baked for less than 15 minutes, to some dense quickbreads and cakes taking over an hour. Furthermore, the guidance says nothing about the internal temperature of the baked good; larger baked goods will take much longer to hit a given temperature than smaller ones. By this guidance, I could burn some cookies to a crisp by cooking them for 25 minutes at 400F, yet they would still be unsafe. Meanwhile, a cake that is still undercooked in the middle when baked at 350F for 30 minutes would be safe. Some research is needed.
+The instructions I received for homemade baked goods I find confusing, specifically the direction that the food must be baked at at least 350 degrees for 30 minutes. I've baked a fair number of foods, including cookies, cakes, scones, quickbreads, yeast breads, cinnamon rolls, pretzels, and more. The times and temperature these items are baked at varies wildly, with cookies often being baked for less than 15 minutes to some dense quickbreads and cakes taking over an hour. Furthermore, the guidance says nothing about the internal temperature of the baked good; larger baked goods will take much longer to hit a given temperature than smaller ones. By this guidance, I could burn some cookies to a crisp by cooking them for 25 minutes at 400F, yet they would still be unsafe. Meanwhile, a cake that is still undercooked in the middle when baked at 350F for 30 minutes would be safe. Some research is needed.
 
 # Questions and Research
 
-### Why are some people able to tolerate egg baked into a baked good, but not cooked by itself?
+I did a fair amount of research to try and find if there were any scientific papers showing what temperature the reactions that made baked egg safe(r) to eat occurred at. The most relevant ones I found were these two papers:
 
-[Liu 2024](https://pubmed.ncbi.nlm.nih.gov/38670261/) 
+["Food Matrix Composition Affects the Allergenicity of Baked Egg Products" - Liu 2024](https://pubmed.ncbi.nlm.nih.gov/38670261/) 
+
+Summarized Findings:
  - Egg allergy primarily caused by two proteins, Ovalbumin and Ovomucoid
  - Ovalbumin is significantly degraded by heating, with a 1900fold reduction when pure egg was baked at 350F for 30 minutes
  - Ovomucoid is less significantly degraded by heating, with a 72 fold reduction in concentration when pure egg was baked at 350F for 30 minutes
  - When egg was baked in a muffin recipe at the same time and temperature, its concentration was reduced by another 2.5x proportionally. The paper theorizes this is due to a matrix effect, where ovomuciod forms a complex with wheat proteins, reducing its bioavailability. 
  - This experiment did not record the actual temperature of the baked egg or baked muffin, only the baking temperature
 
-### Where did this 350F 30 minute guidance come from?
+["Effect of heat treatment on milk and egg proteins allergenicity" - Bloom 2015](https://pubmed.ncbi.nlm.nih.gov/25251921/)
 
-### What temperature do I actually need to cook my food to for the required reactions to happen?
-
-[Bloom 2015](https://pubmed.ncbi.nlm.nih.gov/25251921/)
-
+Summarized Findings:
  - Progressively heated samples of egg solution to temperatures ranging from 28C to 101C and times ranging from 0-60 minutes in a water bath
  - Ran a gel electrophoresis on the samples, showing strong reductions in the spots corresponding to ovalbumin with increasing temperature, while ovalbumin persisted even at high temperatures
  ![Figure 1c](/images/baked_egg/bloom_2015_fig_1c.png)
@@ -48,7 +47,12 @@ However, the instructions for homemade baked goods I find confusing, specificall
      ![Figure 3](/images/baked_egg/bloom_2015_fig_3.png)
      In the text below, the samples were exposed to samples from individuals that were: Heated Egg Reactive, Heated Egg Tolerant (baked egg tolerant), and Egg Tolerant
 
+These two articles do a reasonable job of explaining what is likely happening to inactivate the egg proteins when eggs are baked in a baked good. However, neither one actually attempts to determine what temperature these reactions (at least the ovomucoid matrix formation) occur at. I've been unable to find a paper that does answer this question. 
+
+
 # My own experiments
+
+Anecdotally, in my experience baking breads and some pastries, the internal temperature of the item is generally around 190-210F (87-100C) when it is fully cooked. The temperature cannot rise higher than this without excessively drying out the dough first. 
 
 Following this, I decided to try ignoring the guidance I was given, and instead cook my baked goods until they were done. At this time I have baked:
 
@@ -64,10 +68,21 @@ as it needed longer than the 20 minutes listed on the recipe. When a
 probe came out clean, it measured 190F internally
 ![Red Beans and Rice with a slice of Cornbread](/images/baked_egg/cornbread.JPG)
 
+#### Corn Muffins
+
+Same recipe as above, baked at the same temperature, but for 20 minutes. These measured 203-210F (95-98C) when I removed them from the oven, and a probe came out clean
+![Corn Muffins](/images/baked_egg/corn_muffins.JPG)
+
 #### Oatmeal Drop Scones
 
-These were baked at 425 for 13 minutes. When probed, they measured at 209F internally
+These were baked at 425F for 13 minutes. When probed, they measured at 209F internally
 ![Peanut Butter Chocolate Chip Scones](/images/baked_egg/scones_plate_mint.JPG)
+
+#### Quick Cinnamon Rolls
+
+These were baked at 400F for 18 minutes, 3 minutes longer than the recipe called for since they weren't quite done when I pulled them after 15 minutes. After 18 minutes, the center roll was 195F (90C) at its center.
+
+![Cinnamon Rolls in a skillet](/images/baked_egg/cinnamon_rolls.JPG)
 
 #### Peanut Butter Cookies
 
@@ -78,4 +93,4 @@ These were baked at 350F for 12 minutes. I did not attempt to measure their inte
 
 My sample size is 1, so my experiments should not be considered in any way conclusive. I also have not been challenged on scrambled egg recently, so it is entirely possible I am tolerant of scrambled egg at this point as well. However, I observed no reaction whatsoever to any of the items I have baked with egg since my baked egg challenge, despite most of them violating the guidance I was given on what foods are considered safe.
 
-Given the experiments above and the experiments conducted in Bloom 2015, I would consider any baked good containing more flour than egg and cooked to an internal temperature in excess of 190F/87C to be safe to eat, at least for me. 
+Given the experiments above and the experiments conducted in Bloom 2015, I would personally consider any baked good containing more flour than egg and cooked to an internal temperature in excess of 190F/87C to be safe to eat.
