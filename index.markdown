@@ -12,7 +12,6 @@ I made this site to have a place to put vtuber related projects, writings, and o
 [Light Up Wisp Nametag](https://github.com/xchgeaxeax90/wisp-nametag) - 
 A custom made PCB in the shape of a nametag, with a flashing wisp on it. Build your own, if you dare!
 
-
 ## Other Stuff
 
 [NFC Tag Customization](/nfc_setup) - 
