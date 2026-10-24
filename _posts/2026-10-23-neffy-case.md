@@ -5,7 +5,7 @@ permalink: /projects/neffy_case
 toc: false
 ---
 
-![Figure 3](/images/neffy/neffy_case.jpg)
+![The printed case](/images/neffy/neffy_case.jpg)
 
 [3D Model](/files/neffy_case_v2_20260817.stl)
 
@@ -29,3 +29,7 @@ The model prints in 2 identical halves, held together by clips. I would recommen
 The hole that holds the nasal tube is a fairly tight fit, it may need some sanding or filing for the neffy device to fit and the case to close. The hole that holds the neffy plunger is a much looser fit, there should be no resistance when putting the plunger side of the neffy device in. If you encounter resistance when inserting the neffy plunger into the case, stop immediately to prevent the neffy from discharging.
 
 A parametric .step file is also included if modifications need to be made to the fit for your printer or your neffy devices. 
+
+![A render of the case from Fusion 360](/images/neffy/neffy_case_render.jpg)
+
+![Cross section of the case showing the fit of the neffy device](/images/neffy/neffy_case_cut.jpg)
